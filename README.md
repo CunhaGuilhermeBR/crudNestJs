@@ -17,8 +17,9 @@ Para poder rodar a aplicação você precisara do NodeJs e do npm , caso não o 
 
 Após ter instalado tudo vá até a pasta do projeto pelo terminal e digite o comando:
 
+```bash
 * $ npm install
-
+```
 ## Rodando a aplicação
 
 Depois de ter instalado tudo basta rodar o comando:
